@@ -15,6 +15,26 @@ body {
   color: #facd1c;
 }
 
+.hero-text {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  font-size: 8em;
+  top: 17%;
+  left: 0;
+  text-shadow: 0 0 100px rgba(0, 0, 0, 0.7);
+}
+
+.hero-subtext {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  font-size: 5em;
+  top: 33%;
+  left: 0;
+  text-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
+}
+
 
 /* Workshops stuff */
 
