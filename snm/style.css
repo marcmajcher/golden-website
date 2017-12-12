@@ -1,3 +1,20 @@
 body {
   background-color: black;
+  text-align: center;
+}
+
+.faces {
+  position: relative;
+  text-align: center;
+}
+
+.faces img {
+  display: none;
+  height: 1100px;
+  width: auto;
+  z-index: 1;
+}
+
+.faces .active {
+  z-index: 3;
 }
