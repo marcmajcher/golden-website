@@ -1,6 +1,37 @@
 body {
   background-color: black;
+  color: #ccb9ad;
+  font-family: 'IM Fell DW Pica', serif;
   text-align: center;
+}
+
+h1 {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 4em;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
+.info p {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.info {
+  margin-bottom: 1em;
+}
+
+.description {
+  font-size: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  width: 50%;
+}
+
+a, a:visited, a:active {
+  color: #ddcabe;
 }
 
 .faces {
