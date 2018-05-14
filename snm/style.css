@@ -12,6 +12,13 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  font-family: 'IM Fell Great Primer SC', serif;
+  font-size: 3em;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
 .info p {
   font-family: 'IM Fell Great Primer SC', serif;
   font-size: 1.5em;
@@ -32,6 +39,21 @@ h1 {
 
 a, a:visited, a:active {
   color: #ddcabe;
+}
+
+ul {
+  font-size: 2em;
+  list-style: none;
+  padding: 0;
+}
+
+footer {
+  padding: 2em;
+}
+
+.crew {
+  font-size: 1.5em;
+  list-style: none;
 }
 
 .faces {
